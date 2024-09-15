@@ -17,6 +17,13 @@ body, html{
     overflow-y: scroll;
 }
 
+#taskForm {
+background-color: rgb(234, 234, 234);
+padding: 16px;
+border-radius: 5px;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
 
 .table {
     background-color: white;
